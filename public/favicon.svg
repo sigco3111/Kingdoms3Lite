@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <style>
+    path { fill: #c53030; }
+    @media (prefers-color-scheme: dark) {
+      path { fill: #f56565; }
+    }
+  </style>
+  <!-- 삼국지를 상징하는 세 개의 왕관/깃발 디자인 -->
+  <path d="M16,2 L22,8 L28,5 L26,12 L30,18 L23,18 L20,25 L17,18 L10,18 L14,12 L12,5 L16,2 Z" />
+  <path d="M6,14 L9,18 L4,18 L2,24 L7,24 L10,28 L13,24 L18,24 L16,18 L11,18 L6,14 Z" />
+  <path d="M19,18 L17,24 L22,24 L25,28 L28,24 L30,18 L25,18 L19,18 Z" />
+</svg> 
