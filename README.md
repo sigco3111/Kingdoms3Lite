@@ -3,7 +3,11 @@
 ## 프로젝트 소개
 삼국지 Lite는 조조, 유비, 손권, 원소 네 세력 중 하나를 선택하여 천하를 통일하는 것을 목표로 하는 텍스트 및 차트 기반 전략 게임입니다. 지역을 개발하고 자원을 관리하여 세력을 확장하세요.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/Kingdoms3Lite/
+
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/Kingdoms3Lite/)
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. README 일부 본문/뱃지에서 Vercel 흔적이 남아있을 수 있으나 공식 라이브 데모는 위 Pages URL입니다.
 
 ## 기능
 - 4개의 플레이 가능한 세력 (조조, 유비, 손권, 원소)
